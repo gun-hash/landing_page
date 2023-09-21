@@ -20,7 +20,7 @@ export default function AboutPage() {
 
         <ArticleMedia>
           <img
-            src="https://picsum.photos/420/640?grayscale"
+            src="https://images.pexels.com/photos/17117787/pexels-photo-17117787/free-photo-of-dulces-dulces.jpeg"
             alt="Lorem Picsum"
           />
         </ArticleMedia>
