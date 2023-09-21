@@ -12,7 +12,7 @@ export function Footer() {
           <SocialLinks className="mb-6 inline-flex w-full flex-none justify-center lg:flex lg:justify-end" />
           <div className="mb-6 inline-flex w-full flex-none justify-center lg:w-1/2 lg:justify-start">
             &copy; 2022 
-            <a href="https://github.com/gun-hash" style={{ textDecoration: 'none', color: 'inherit' }>gun-hash</a>
+            <a href="https://github.com/gun-hash" style={{ textDecoration: 'none', color: 'inherit' }}>gun-hash</a>
           , all rights reserved
           </div>
         </div>
