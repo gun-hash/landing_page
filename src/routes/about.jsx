@@ -9,8 +9,8 @@ export default function AboutPage() {
       <Article>
         <ArticleContent title="About">
           <p>
-            This is a HTML/CSS landing page designed and developed by
-            Binit Thakurathi.
+            This is a HTML/CSS landing page designed and developed by&nbsp;
+            <a href="https://github.com/gun-hash" style={{ textDecoration: 'none', color: 'inherit' }}>Gun-Hash</a>.
           </p>
           <p>
             This landing page is suitable for all kind of startups and it's easily
