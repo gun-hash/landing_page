@@ -20,7 +20,7 @@ export default function AboutPage() {
 
         <ArticleMedia>
           <img
-            src="https://images.pexels.com/photos/14558743/pexels-photo-14558743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://images.pexels.com/photos/6913714/pexels-photo-6913714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="Lorem Picsum"
           />
         </ArticleMedia>
