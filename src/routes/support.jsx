@@ -12,7 +12,7 @@ export default function SupportPage() {
         </ArticleContent>
 
         <ArticleMedia>
-          <img src="https://images.pexels.com/photos/3143813/pexels-photo-3143813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Lorem Picsum" />
+          <img src="https://images.pexels.com/photos/13047424/pexels-photo-13047424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Lorem Picsum" />
         </ArticleMedia>
       </Article>
     </Layout>
