@@ -12,7 +12,7 @@ export default function ContactPage() {
         </ArticleContent>
 
         <ArticleMedia>
-          <img src="https://picsum.photos/420/640" alt="Lorem Picsum" />
+          <img src="https://images.pexels.com/photos/14979218/pexels-photo-14979218/free-photo-of-young-woman-in-sunglasses-talking-on-modern-smartphone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
         </ArticleMedia>
       </Article>
     </Layout>
